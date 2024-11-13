@@ -240,7 +240,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameInputField: {fileID: 1494758175}
-  nameText: {fileID: 1417932181}
+  nameTmpText: {fileID: 0}
+  ageInputField: {fileID: 0}
+  ageTmpText: {fileID: 0}
 --- !u!1 &20339814
 GameObject:
   m_ObjectHideFlags: 0
@@ -2100,7 +2102,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1a037f2c94ccb4d4dbe6a5fcb472e9f9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a2a79110b304d304abdf054b3599a02b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
