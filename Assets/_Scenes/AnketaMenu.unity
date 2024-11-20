@@ -240,9 +240,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nameInputField: {fileID: 1494758175}
-  nameTmpText: {fileID: 0}
-  ageInputField: {fileID: 0}
-  ageTmpText: {fileID: 0}
+  nameTmpText: {fileID: 1417932181}
+  ageInputField: {fileID: 641560126}
+  ageTmpText: {fileID: 1218339114}
 --- !u!1 &20339814
 GameObject:
   m_ObjectHideFlags: 0
